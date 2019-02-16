@@ -1,0 +1,10 @@
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\bin\Debug\TestingDragAndDrop.exe.config
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\bin\Debug\TestingDragAndDrop.exe
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\bin\Debug\TestingDragAndDrop.pdb
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.csprojAssemblyReference.cache
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.FormDragAndDrop.resources
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.Properties.Resources.resources
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.csproj.GenerateResource.cache
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.exe
+C:\Users\Juan M. González\source\repos\TestingDragAndDrop\TestingDragAndDrop\obj\Debug\TestingDragAndDrop.pdb
